@@ -12,7 +12,7 @@ Benefits include the "Standard Savings Account" plus "with Insurance".
 
 
 Develop a decorator pattern approach that will implement the given UML diagram:
-
+![UML Diagram](https://github.com/AdrielFlorante/CIMB-Decorator/blob/main/Decorator%20UML%20Diagram.png)
 
 
 The content of your Cimb.java should ONLY contain the following codes with the exception of inserting your own package name :
@@ -57,10 +57,10 @@ public class Cimb {
 }
 
 You should display the following output:
+![Sample Output](https://github.com/AdrielFlorante/CIMB-Decorator/blob/main/Sample%20Output.png)
 
 
-
-Description of the following methods
+Description of the following methods:
 
 showAccountType() - Either returns "Savings Account", "GSave" or "UpSave"
 getInterestRate() - Either returns 1% for Savings Account; 2.5% for GSave; 4.0% UpSave
