@@ -56,7 +56,7 @@ public class Cimb {
 	}
 }
 
-You should display the following output:
+You should display the following output:<br>
 ![Sample Output](https://github.com/AdrielFlorante/CIMB-Decorator/blob/main/Sample%20Output.png)
 
 
